@@ -1,0 +1,2 @@
+NAME      HOST/PORT                                              PATH   SERVICES   PORT    TERMINATION          WILDCARD
+console   console-openshift-console.apps.eu45.prod.nextcle.com          console    https   reencrypt/Redirect   None
