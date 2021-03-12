@@ -11,7 +11,7 @@ pipeline {
 
     environment {
         DEV_PROJECT = "noel-chiocchetti-ch-ibm-com-books-dev"
-        STAGE_PROJECT = "noel-chiocchetti-ch-ibm.com-books-stage"
+        STAGE_PROJECT = "noel-chiocchetti-ch-ibm-com-books-stage"
         APP_GIT_URL = "https://github.com/noelchiocchetti/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/nodejs"
 
